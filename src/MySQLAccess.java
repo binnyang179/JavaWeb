@@ -12,7 +12,7 @@ public class MySQLAccess {
     private static SimpleDateFormat simpleDateFormat;
     private String sqlToExecute;
 
-    static String URL = "jdbc:mysql://10.1.28.104:3306";
+    static String URL = "jdbc:mysql://10.2.155.127:3306";
     static String user = "root";
     static String password = "123456";
 
